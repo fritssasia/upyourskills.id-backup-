@@ -13,3 +13,29 @@ body {
 .header-top {
     background-color: #1D2D5F;
 }
+
+.header-top-box-img {
+    position: absolute;
+}
+
+.header-top-text-wrapper {
+    padding-top: 229px;
+    padding-left: 50px;
+}
+
+.header-top h2,
+p {
+    position: relative;
+    color: white;
+}
+
+.header-top h2 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.header-top p {
+    padding-top: 15px;
+    font-weight: 500;
+    font-size: 20px;
+}
