@@ -10,6 +10,10 @@ body {
     font-size: 22px;
 }
 
+.nav-link {
+    margin-right: 55px;
+}
+
 /* ============== Header-top ============== */
 .header-top {
     background-color: #1D2D5F;
