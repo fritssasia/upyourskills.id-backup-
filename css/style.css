@@ -1,8 +1,16 @@
-.header-top {
-    background-color: #1D2D5F;
-    height: 550px;
+body {
+    font-family: 'Poppins';
 }
 
-.bg-learn {
-    height: 450px;
+/* Navbar */
+.navbar-brand {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+}
+
+/* ============== Header-top ============== */
+.header-top {
+    background-color: #1D2D5F;
 }
